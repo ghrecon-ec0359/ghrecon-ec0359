@@ -1,3 +1,7 @@
-### Stack
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="96" alt="logo" />
+</p>
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<h3 align="center">Hi there</h3>
+
+<p align="center">Centred intro text.</p>
