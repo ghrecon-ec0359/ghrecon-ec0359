@@ -1,7 +1,20 @@
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="96" alt="logo" />
-</p>
+### Stack :hammer_and_wrench:
 
-<h3 align="center">Hi there</h3>
+| Language | Level |
+| :-- | --: |
+| Rust | Daily |
+| TypeScript | Daily |
 
-<p align="center">Centred intro text.</p>
+- [x] Ship the compare tool
+- [ ] Ship the card
+
+<details>
+<summary>More</summary>
+
+Hidden text here.
+
+</details>
+
+```ts
+const greet = (name: string) => `hi ${name}`;
+```
