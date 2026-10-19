@@ -10,8 +10,8 @@ Emoji :rocket: :tada:
 
 ![Alt text](https://github.com/images/modules/logo_placeholder.png)
 
-+- [x] done task
-+- [ ] open task
+- [x] done task
+- [ ] open task
 
 | Name | Value |
 | :--- | ---: |
