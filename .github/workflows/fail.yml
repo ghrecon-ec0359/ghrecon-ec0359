@@ -1,5 +1,7 @@
 name: fail
-on: push
+on:
+  push:
+  workflow_dispatch:
 jobs:
   fail:
     runs-on: ubuntu-latest
